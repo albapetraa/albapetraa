@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albapetraa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning C#
 
 
 <!---
