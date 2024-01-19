@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **albapetraa@gmail.com**
 
-- ⚡ Fun fact **Later equals never**
+- ⚡ **Later equals never**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
