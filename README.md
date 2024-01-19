@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Adisyo](https://adisyo.com)
 
-- 🌱 I’m currently learning **React and Algorithmic Trading**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **albapetraa@gmail.com**
 
-- ⚡ Fun fact **I will sink financially trying to learn algorithmic trading**
+- ⚡ Fun fact **Later equals never**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
