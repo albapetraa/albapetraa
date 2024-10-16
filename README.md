@@ -8,7 +8,3 @@
 - 😵 If you want to contact with me send mail **albapetraa@gmail.com**
 
 - ⚡ **Later equals never**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
