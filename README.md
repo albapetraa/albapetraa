@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm @albapetraa</h1>
 <h3 align="center">Turning ideas into code — with a dash of chaos 🧠💻</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3Mzg3ZDgxZTUwMTU1N2FkMjEzMDMwMWE4MDMyM2M5YzFlYWM0NSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="coding gif">
-</p>
-
 ---
 
 ### 💼 Currently:
